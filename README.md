@@ -1,9 +1,45 @@
-- 👋 Hi, I’m @ardeman
-- 👀 I’m interested in gaming, movie, and music
-- 🌱 I’m currently learning Next.js and Nuxt.js
-- 📫 You can reach me at my [LinkedIn](https://www.linkedin.com/in/ardeman/) profile
+# 👋 Hi, I'm Ardeman
 
-<!---
-ardeman/ardeman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate Front-End Engineer | ⚛️ React & Next.js Enthusiast | 🎯 Agile Team Player
+
+---
+
+## 👨‍💻 About Me
+
+With over a decade of experience building modern web applications — and the last 5+ years focused intensively on React.js and Next.js — I specialize in creating high-quality, scalable, and user-focused front-end solutions. I thrive in Agile environments and love turning complex ideas into intuitive digital experiences.
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages**: JavaScript, TypeScript, PHP
+- **Frameworks**: React.js, Next.js, Vue.js, Nuxt.js
+- **Styling**: Tailwind CSS, Bootstrap, Material UI
+- **Back-End Experience**: Node.js (Express), Laravel, CodeIgniter, MySQL, Firebase
+- **Other**: Git, Agile/Scrum, RESTful APIs
+
+---
+
+## 🏢 Recent Roles
+
+- **Lead Front-End Engineer** @ PT. Griya Mitra Digital  
+  Leading the development of portal and admin panels with Next.js + Tailwind, managing sprints, and mentoring developers.
+
+- **Front-End Engineer** @ Pintek  
+  Built and maintained financial portals and backoffice platforms with Next.js, Laravel, and Alpine.js.
+
+- **Front-End Developer** @ goKampus  
+  Scaled a basic landing page into a full online course platform.
+
+Check out my full [resume](https://ardeman.com) or [LinkedIn](https://linkedin.com/in/ardeman) for more!
+
+---
+
+## 📫 Get in Touch
+
+- 🌐 Website: [ardeman.com](https://ardeman.com)  
+- 💼 LinkedIn: [linkedin.com/in/ardeman](https://linkedin.com/in/ardeman)
+
+---
+
+> Always building, always learning — let’s connect and create something great!
