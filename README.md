@@ -1,53 +1,74 @@
-# 👋 Hi, I'm Ardeman
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=Front-End+Engineer+from+Indonesia;React+%2F+Next.js+Developer;Always+Building+%2F+Always+Learning" alt="Typing SVG" />
+</p>
 
-🚀 Passionate Front-End Engineer | ⚛️ React & Next.js Enthusiast | 🎯 Agile Team Player
+<h1 align="center">Hi, I'm Ardeman 👋</h1>
+
+<p align="center">
+🚀 Front-End Engineer · ⚛️ React & Next.js Enthusiast · 🎯 Agile Collaborator  
+</p>
+
+<p align="center">
+  <a href="https://ardeman.com"><img src="https://img.shields.io/badge/Portfolio-%231D9BF0?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ardeman"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/React-Developer-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-With over a decade of experience building modern web applications — and the last 5+ years focused intensively on React.js and Next.js — I specialize in creating high-quality, scalable, and user-focused front-end solutions. I thrive in Agile environments and love turning complex ideas into intuitive digital experiences.
+I’m a passionate Front-End Engineer with over a decade of experience building modern web applications — and 5+ years deeply focused on React.js and Next.js. My mission is to craft intuitive, scalable, and accessible user interfaces that people love to use.
+
+I thrive in Agile teams and take pride in delivering clean, efficient code and mentoring others along the way.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, TypeScript, PHP
-- **Frameworks**: React.js, Next.js, Vue.js, Nuxt.js
-- **Styling**: Tailwind CSS, Bootstrap, Material UI
-- **Back-End Experience**: Node.js (Express), Laravel, CodeIgniter, MySQL, Firebase
-- **Other**: Git, Agile/Scrum, RESTful APIs
-
----
-
-## 🏢 Recent Roles
-
-- **Lead Front-End Engineer** @ PT. Griya Mitra Digital  
-  Leading the development of portal and admin panels with Next.js + Tailwind, managing sprints, and mentoring developers.
-
-- **Front-End Engineer** @ Pintek  
-  Built and maintained financial portals and backoffice platforms with Next.js, Laravel, and Alpine.js.
-
-- **Front-End Developer** @ goKampus  
-  Scaled a basic landing page into a full online course platform.
-
-Check out my full [resume](https://ardeman.com) or [LinkedIn](https://linkedin.com/in/ardeman) for more!
+- **Languages**: JavaScript, TypeScript, PHP  
+- **Frameworks**: React.js, Next.js, Vue.js, Nuxt.js, Laravel, CodeIgniter  
+- **Styling**: Tailwind CSS, Bootstrap, Material UI  
+- **Backend/DB**: Express.js, Firebase, MySQL  
+- **Tools**: Git, REST APIs, Agile / Scrum
 
 ---
 
-## 📫 Get in Touch
+## 💼 Recent Roles
 
-- 🌐 Website: [ardeman.com](https://ardeman.com)  
-- 💼 LinkedIn: [linkedin.com/in/ardeman](https://linkedin.com/in/ardeman)
+- 🧭 **Lead Front-End Engineer** @ *PT. Griya Mitra Digital*  
+  Next.js + Tailwind | Mentorship | Sprint Management | Code Review
+
+- 🏦 **Front-End Engineer** @ *Pintek*  
+  Financial portals & admin systems with Next.js, Laravel, Alpine.js
+
+- 🎓 **Front-End Developer** @ *goKampus*  
+  Built and scaled course platform & CMS with React
+
+📄 [Resume & Portfolio](https://ardeman.com) | 🔗 [LinkedIn](https://linkedin.com/in/ardeman)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Ardeman's GitHub stats](https://project-github-stats.vercel.app/api?username=ardeman&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://project-github-stats.vercel.app/api?username=ardeman&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://project-github-stats.vercel.app/api/top-langs/?username=ardeman&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://project-github-stats.vercel.app/api/top-langs/?username=ardeman&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
 
 ---
 
-> Always building, always learning — let’s connect and create something great!
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://ardeman.com"><img src="https://img.shields.io/badge/Website-Visit-1D9BF0?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ardeman"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>“Always building, always learning — let’s connect and create something great.”</i></p>
