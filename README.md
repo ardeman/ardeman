@@ -44,9 +44,9 @@ Check out my full [resume](https://ardeman.com) or [LinkedIn](https://linkedin.c
 
 ## 📊 GitHub Stats
 
-![Ardeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardeman&show_icons=true&theme=transparent)
+![Ardeman's GitHub stats](https://project-github-stats.vercel.app/api?username=ardeman&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardeman&layout=compact&theme=transparent)
+![Top Languages](https://project-github-stats.vercel.app/api/top-langs/?username=ardeman&layout=compact&theme=transparent)
 
 ---
 
