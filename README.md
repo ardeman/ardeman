@@ -2,11 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=Front-End+Engineer+from+Indonesia;React+%2F+Next.js+Developer;Always+Building+%2F+Always+Learning" alt="Typing SVG" />
 </p>
 
+<!-- portfolio-profile:intro:start -->
+
 <h1 align="center">Hi, I'm Ardeman 👋</h1>
 
 <p align="center">
 🚀 Front-End Engineer · ⚛️ React & Next.js Enthusiast · 🎯 Agile Collaborator  
 </p>
+
+<!-- portfolio-profile:intro:end -->
 
 <p align="center">
   <a href="https://ardeman.com"><img src="https://img.shields.io/badge/Portfolio-%231D9BF0?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -16,6 +20,8 @@
 </p>
 
 ---
+
+<!-- portfolio-profile:details:start -->
 
 ## 👨‍💻 About Me
 
@@ -47,6 +53,8 @@ I thrive in Agile teams and take pride in delivering clean, efficient code and m
   Built and scaled course platform & CMS with React
 
 📄 [Resume & Portfolio](https://ardeman.com) | 🔗 [LinkedIn](https://linkedin.com/in/ardeman)
+
+<!-- portfolio-profile:details:end -->
 
 ---
 
