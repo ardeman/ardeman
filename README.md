@@ -6,9 +6,9 @@
 
 <h1 align="center">Hi, I'm Ardeman 👋</h1>
 
-<p align="center">
-🚀 Front-End Engineer · ⚛️ React & Next.js Enthusiast · 🎯 Agile Collaborator  
-</p>
+<p align="center">Front-End Engineer &amp; Team Lead</p>
+
+<p align="center">I turn complex requirements into clear, usable interfaces and help teams build them well.</p>
 
 <!-- portfolio-profile:intro:end -->
 
@@ -25,34 +25,46 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate Front-End Engineer with over a decade of experience building modern web applications — and 5+ years deeply focused on React.js and Next.js. My mission is to craft intuitive, scalable, and accessible user interfaces that people love to use.
+I’m Ardeman, a front-end engineer based in Jakarta. Over the past decade, I’ve worked across full-stack development, web platforms, and front-end leadership. Today, I build with React, Next.js, and TypeScript.
 
-I thrive in Agile teams and take pride in delivering clean, efficient code and mentoring others along the way.
+At PT. Griya Mitra Digital, I lead front-end delivery through sprint planning, code reviews, and collaboration with backend and product teams. I care about readable code, responsive interfaces, and getting the details right.
+
+Outside work, I build tools and playful learning experiences. Catat Saja brings tasks, notes, and finances together, while Coba Lagi helps children learn to code through play.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, TypeScript, PHP  
-- **Frameworks**: React.js, Next.js, Vue.js, Nuxt.js, Laravel, CodeIgniter  
-- **Styling**: Tailwind CSS, Bootstrap, Material UI  
-- **Backend/DB**: Express.js, Firebase, MySQL  
-- **Tools**: Git, REST APIs, Agile / Scrum
+React.js · Next.js · Vue.js · Nuxt · JavaScript · TypeScript · Tailwind CSS · HTML5 · SCSS · Firebase · SQL
 
 ---
 
 ## 💼 Recent Roles
 
-- 🧭 **Lead Front-End Engineer** @ *PT. Griya Mitra Digital*  
-  Next.js + Tailwind | Mentorship | Sprint Management | Code Review
+### Front-End Lead · PT. Griya Mitra Digital
 
-- 🏦 **Front-End Engineer** @ *Pintek*  
-  Financial portals & admin systems with Next.js, Laravel, Alpine.js
+May 2023 – Present · West Jakarta, Jakarta, Indonesia
 
-- 🎓 **Front-End Developer** @ *goKampus*  
-  Built and scaled course platform & CMS with React
+- Develop and maintain client portals and admin panels with Next.js and Tailwind CSS.
+- Plan sprint work and assign tasks across the front-end team.
+- Review pull requests from front-end engineers.
+- Coordinate work across front-end, back-end, and product teams.
 
-📄 [Resume & Portfolio](https://ardeman.com) | 🔗 [LinkedIn](https://linkedin.com/in/ardeman)
+### Front-End Engineer · Pintek
+
+Jan 2022 – May 2023 · Central Jakarta, Jakarta, Indonesia
+
+- Developed and maintained web portals with Next.js and Tailwind CSS.
+- Developed and maintained back-office tools with Laravel, Tailwind CSS, and Alpine.js.
+
+### Front-End Developer · goKampus
+
+Feb 2021 – Jan 2022 · West Jakarta, Jakarta, Indonesia
+
+- Expanded a landing page into an online course platform with Next.js.
+- Developed and maintained content management systems for partners and universities with React.
+
+📄 [Résumé](https://ardeman.com/documents/resume.pdf) · [Portfolio](https://ardeman.com) · [LinkedIn](https://linkedin.com/in/ardeman)
 
 <!-- portfolio-profile:details:end -->
 
