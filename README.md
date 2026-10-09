@@ -1,29 +1,22 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=Front-End+Engineer+from+Indonesia;React+%2F+Next.js+Developer;Always+Building+%2F+Always+Learning" alt="Typing SVG" />
-</p>
-
 <!-- portfolio-profile:intro:start -->
 
-<h1 align="center">Hi, I'm Ardeman 👋</h1>
+<h1 align="center">Ardeman</h1>
 
-<p align="center">Front-End Engineer &amp; Team Lead</p>
+<p align="center"><strong>Front-End Engineer &amp; Team Lead</strong></p>
 
 <p align="center">I turn complex requirements into clear, usable interfaces and help teams build them well.</p>
 
 <!-- portfolio-profile:intro:end -->
 
 <p align="center">
-  <a href="https://ardeman.com"><img src="https://img.shields.io/badge/Portfolio-%231D9BF0?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ardeman"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/React-Developer-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <a href="https://ardeman.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://ardeman.com/documents/resume.pdf">Résumé</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/ardeman">LinkedIn</a>
 </p>
-
----
 
 <!-- portfolio-profile:details:start -->
 
-## 👨‍💻 About Me
+## About
 
 I’m Ardeman, a front-end engineer based in Jakarta. Over the past decade, I’ve worked across full-stack development, web platforms, and front-end leadership. Today, I build with React, Next.js, and TypeScript.
 
@@ -31,15 +24,12 @@ At PT. Griya Mitra Digital, I lead front-end delivery through sprint planning, c
 
 Outside work, I build tools and playful learning experiences. Catat Saja brings tasks, notes, and finances together, while Coba Lagi helps children learn to code through play.
 
----
+## Working with
 
-## 🛠️ Tech Stack
+<code>React.js</code> · <code>Next.js</code> · <code>Vue.js</code> · <code>Nuxt</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>HTML5</code> · <code>SCSS</code> · <code>Firebase</code> · <code>SQL</code>
 
-React.js · Next.js · Vue.js · Nuxt · JavaScript · TypeScript · Tailwind CSS · HTML5 · SCSS · Firebase · SQL
-
----
-
-## 💼 Recent Roles
+<details>
+<summary><strong>Recent experience</strong></summary>
 
 ### Front-End Lead · PT. Griya Mitra Digital
 
@@ -64,31 +54,30 @@ Feb 2021 – Jan 2022 · West Jakarta, Jakarta, Indonesia
 - Expanded a landing page into an online course platform with Next.js.
 - Developed and maintained content management systems for partners and universities with React.
 
-📄 [Résumé](https://ardeman.com/documents/resume.pdf) · [Portfolio](https://ardeman.com) · [LinkedIn](https://linkedin.com/in/ardeman)
+[View my full résumé](https://ardeman.com/documents/resume.pdf)
+
+</details>
 
 <!-- portfolio-profile:details:end -->
 
----
+## Selected projects
 
-## 📈 GitHub Stats
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [Coba Lagi](https://github.com/ardeman/project_cobalagi_flutter) | A coding adventure for children using picture blocks and spoken instructions. | Flutter · Dart |
+| [Catat Saja](https://github.com/ardeman/project-catatsaja-reactrouter) | Tasks, notes, and personal finances, organized in one place. | React Router · TypeScript · Firebase |
+| [Personal portfolio](https://github.com/ardeman/project-profile-nextjs) | Selected work, professional experience, and a résumé generated from curated profile data. | Next.js · TypeScript · Tailwind CSS |
 
-<p align="center">
-  <img src="https://project-github-stats.vercel.app/api?username=ardeman&show_icons=true&theme=transparent" alt="GitHub Stats" />
+[Explore more projects →](https://ardeman.com/archive)
+
+<details>
+<summary><strong>GitHub activity</strong></summary>
+
+<p>
+  <img src="https://project-github-stats.vercel.app/api?username=ardeman&amp;show_icons=true&amp;theme=transparent" alt="Ardeman’s GitHub contribution statistics" />
+</p>
+<p>
+  <img src="https://project-github-stats.vercel.app/api/top-langs/?username=ardeman&amp;layout=compact&amp;theme=transparent" alt="Languages used across Ardeman’s GitHub repositories" />
 </p>
 
-<p align="center">
-  <img src="https://project-github-stats.vercel.app/api/top-langs/?username=ardeman&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
----
-
-## 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://ardeman.com"><img src="https://img.shields.io/badge/Website-Visit-1D9BF0?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ardeman"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><i>“Always building, always learning — let’s connect and create something great.”</i></p>
+</details>
