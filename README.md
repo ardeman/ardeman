@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Front-End Engineer &amp; Team Lead</strong></p>
 
-<p align="center">I turn complex requirements into clear, usable interfaces and help teams build them well.</p>
+<p align="center">I develop web applications and lead front-end teams, drawing on experience across full-stack development and product delivery.</p>
 
 <!-- portfolio-profile:intro:end -->
 
@@ -18,11 +18,11 @@
 
 ## About
 
-I’m Ardeman, a front-end engineer based in Jakarta. Over the past decade, I’ve worked across full-stack development, web platforms, and front-end leadership. Today, I build with React, Next.js, and TypeScript.
+My work has taken me from PHP portals and mobile APIs to online course platforms and front-end team leadership. I’m based in Jakarta and now work primarily with React, Next.js, and TypeScript.
 
-At PT. Griya Mitra Digital, I lead front-end delivery through sprint planning, code reviews, and collaboration with backend and product teams. I care about readable code, responsive interfaces, and getting the details right.
+At PT. Griya Mitra Digital, I develop client portals and admin panels, plan sprint work, and review the team’s pull requests. Working with backend and product teams is part of that day-to-day responsibility, alongside writing and maintaining the front-end code.
 
-Outside work, I build tools and playful learning experiences. Catat Saja brings tasks, notes, and finances together, while Coba Lagi helps children learn to code through play.
+My personal projects explore two different interests: everyday organization and learning through play. Catat Saja brings notes, tasks, and finances together, with sharing and support for multiple currencies. Coba Lagi introduces children to coding with visual puzzles and spoken instructions.
 
 ## Working with
 
