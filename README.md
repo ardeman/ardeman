@@ -65,7 +65,7 @@ Feb 2021 – Jan 2022 · West Jakarta, Jakarta, Indonesia
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [Coba Lagi](https://github.com/ardeman/project_cobalagi_flutter) | A coding adventure for children using picture blocks and spoken instructions. | Flutter · Dart |
-| [Catat Saja](https://github.com/ardeman/project-catatsaja-reactrouter) | Tasks, notes, and personal finances, organized in one place. | React Router · TypeScript · Firebase |
+| [Catat Saja](https://github.com/ardeman/project-catatsaja-reactrouter) | Notes, tasks, finances, and health logs, encrypted and shared in one place. | React Router · TypeScript · Firebase · Web Crypto |
 | [Personal portfolio](https://github.com/ardeman/project-profile-nextjs) | Selected work, professional experience, and a résumé generated from curated profile data. | Next.js · TypeScript · Tailwind CSS |
 
 [Explore more projects →](https://ardeman.com/archive)
