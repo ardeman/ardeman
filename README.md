@@ -22,11 +22,11 @@ My work has taken me from PHP portals and mobile APIs to online course platforms
 
 At PT. Griya Mitra Digital, I develop client portals and admin panels, plan sprint work, and review the team’s pull requests. Working with backend and product teams is part of that day-to-day responsibility, alongside writing and maintaining the front-end code.
 
-My personal projects explore two different interests: everyday organization and learning through play. Catat Saja brings notes, tasks, finances, and family health logs together, with end-to-end encryption and sharing. It includes multi-currency finance books with spending charts, and health tracking from body measurements to child growth. Coba Lagi introduces children to coding with visual puzzles and spoken instructions.
+My personal projects explore two different interests: everyday organization and learning through play. Catat Saja brings notes, tasks, finances, and family health logs together, with end-to-end encryption and sharing. It includes multi-currency finance books with spending charts, and health tracking from body measurements to child growth, medicine reminders, and Gemini helpers for receipts and dictation. Coba Lagi introduces children to coding with visual puzzles and spoken instructions, and is now playable with a controller on Steam Deck.
 
 ## Working with
 
-<code>React.js</code> · <code>Next.js</code> · <code>Vue.js</code> · <code>Nuxt</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>HTML5</code> · <code>SCSS</code> · <code>Firebase</code> · <code>SQL</code>
+<code>React.js</code> · <code>Next.js</code> · <code>Vue.js</code> · <code>Nuxt</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>HTML5</code> · <code>SCSS</code> · <code>Firebase</code> · <code>SQL</code> · <code>Flutter</code> · <code>Dart</code> · <code>React Router</code>
 
 <details>
 <summary><strong>Recent experience</strong></summary>
