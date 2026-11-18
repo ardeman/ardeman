@@ -65,8 +65,10 @@ Feb 2021 – Jan 2022 · West Jakarta, Jakarta, Indonesia
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [Coba Lagi](https://github.com/ardeman/project_cobalagi_flutter) | A coding adventure for children using picture blocks and spoken instructions. | Flutter · Dart |
+| [Bedug](https://github.com/ardeman/project_bedug_flutter) | Prayer times, the Qibla, the Quran, and a Hijri calendar, free and private. | Flutter · Dart |
 | [Catat Saja](https://github.com/ardeman/project-catatsaja-reactrouter) | Notes, tasks, finances, and health logs, encrypted and shared in one place. | React Router · TypeScript · Firebase · Web Crypto |
-| [Personal portfolio](https://github.com/ardeman/project-profile-nextjs) | Selected work, professional experience, and a résumé generated from curated profile data. | Next.js · TypeScript · Tailwind CSS |
+| [Krida](https://github.com/ardeman/project-krida-kmp) | 3D voxel board games from Nusantara you can play together on Android and iOS. | Kotlin Multiplatform · Android · iOS |
+| [Bilah Aksara](https://bilahaksara.ardeman.com) | A story-driven pixel-art adventure set in the Acehnese sultanate. | Godot · GDScript |
 
 [Explore more projects →](https://ardeman.com/archive)
 
